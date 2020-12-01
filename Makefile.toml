@@ -1,0 +1,12 @@
+[env]
+
+[config]
+default_to_workspace = false
+
+[tasks.day-01-a]
+command = "cargo"
+args = ["run", "--bin", "day_01_a", "--", "input/01"]
+
+[tasks.day-01-b]
+command = "cargo"
+args = ["run", "--bin", "day_01_b", "--", "input/01"]
