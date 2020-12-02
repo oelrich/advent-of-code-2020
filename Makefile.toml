@@ -10,3 +10,11 @@ args = ["run", "--bin", "day_01_a", "--", "input/01"]
 [tasks.day-01-b]
 command = "cargo"
 args = ["run", "--bin", "day_01_b", "--", "input/01"]
+
+[tasks.day-02-a]
+command = "cargo"
+args = ["run", "--bin", "day_02_a", "--", "input/02"]
+
+[tasks.day-02-b]
+command = "cargo"
+args = ["run", "--bin", "day_02_b", "--", "input/02"]
