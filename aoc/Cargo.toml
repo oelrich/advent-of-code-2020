@@ -1,5 +1,5 @@
 [package]
-name = "day-01"
+name = "aoc"
 version = "0.1.0"
 authors = ["Johan Oelrich <johan@oelrich.se>"]
 edition = "2018"
@@ -8,6 +8,7 @@ edition = "2018"
 
 [dependencies]
 
+nom = "6.0"
 csv = "1.1"
 
 structopt = "0.3"
