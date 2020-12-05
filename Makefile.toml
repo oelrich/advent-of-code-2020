@@ -26,3 +26,21 @@ args = ["run", "--bin", "day_03_a", "--", "input/03"]
 [tasks.day-03-b]
 command = "cargo"
 args = ["run", "--bin", "day_03_b", "--", "input/03"]
+
+[tasks.day-04-a]
+command = "cargo"
+args = ["run", "--bin", "day_04_a", "--", "input/04"]
+
+[tasks.day-04-b]
+command = "cargo"
+args = ["run", "--bin", "day_04_b", "--", "input/04"]
+
+[tasks.day-05-a]
+command = "cargo"
+args = ["run", "--bin", "day_05_a", "--", "input/05"]
+
+[tasks.day-05-b]
+command = "cargo"
+args = ["run", "--bin", "day_05_b", "--", "input/05"]
+
+
