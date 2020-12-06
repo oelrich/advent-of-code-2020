@@ -44,3 +44,13 @@ command = "cargo"
 args = ["run", "--bin", "day_05_b", "--", "input/05"]
 
 
+
+[tasks.day-06-a]
+command = "cargo"
+args = ["run", "--bin", "day_06_a", "--", "input/06"]
+
+[tasks.day-06-b]
+command = "cargo"
+args = ["run", "--bin", "day_06_b", "--", "input/06"]
+
+
