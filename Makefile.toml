@@ -43,8 +43,6 @@ args = ["run", "--bin", "day_05_a", "--", "input/05"]
 command = "cargo"
 args = ["run", "--bin", "day_05_b", "--", "input/05"]
 
-
-
 [tasks.day-06-a]
 command = "cargo"
 args = ["run", "--bin", "day_06_a", "--", "input/06"]
@@ -53,4 +51,18 @@ args = ["run", "--bin", "day_06_a", "--", "input/06"]
 command = "cargo"
 args = ["run", "--bin", "day_06_b", "--", "input/06"]
 
+[tasks.day-07-a]
+command = "cargo"
+args = ["run", "--bin", "day_07_a", "--", "input/07"]
 
+[tasks.day-07-b]
+command = "cargo"
+args = ["run", "--bin", "day_07_b", "--", "input/07"]
+
+[tasks.day-08-a]
+command = "cargo"
+args = ["run", "--bin", "day_08_a", "--", "input/08"]
+
+[tasks.day-08-b]
+command = "cargo"
+args = ["run", "--bin", "day_08_b", "--", "input/08"]
